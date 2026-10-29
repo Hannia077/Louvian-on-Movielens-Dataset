@@ -1,7 +1,7 @@
 # Community Detection (Louvain) pada Dataset MovieLens
 Mengelompokkan user MovieLens berdasarkan selera film dengan algoritma **Louvain** di **Neo4j Graph Data Science**, lalu memakai komunitasnya untuk **rekomendasi film**.
 
-Anggota Kelompok:
+Anggota Kelompok 1:
 - Hafiz Ramadhan (23031554049)
 - Hannia Hary Putri (23031554077)
 - Tsalma Masyhta Zahwa (23031554103)
@@ -63,3 +63,6 @@ Kelima film bergenre Drama, sama seperti Titanic, dan rilis 1998–2000.
 
 - User yang sendirian di komunitasnya tidak mendapat rekomendasi (*cold start*).
 - Film yang sangat populer cenderung selalu muncul di urutan atas (*popularity bias*).
+
+## PPT
+https://drive.google.com/file/d/1_UV-2SB6Bk9HW0nek8FsPAQNZ6i2LqfQ/view?usp=sharing
