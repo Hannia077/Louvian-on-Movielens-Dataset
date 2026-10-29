@@ -1,4 +1,9 @@
 # Community Detection (Louvain) pada Dataset MovieLens
+Anggota Kelompok:
+- Hafiz Ramadhan (23031554049)
+- Hannia Hary Putri (23031554077)
+- Tsalma Masyhta Zahwa (23031554103)
+- Bintang Prananda Putra (23031554131)
 
 Mengelompokkan user MovieLens berdasarkan selera film dengan algoritma **Louvain** di **Neo4j Graph Data Science**, lalu memakai komunitasnya untuk **rekomendasi film**.
 
